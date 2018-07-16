@@ -1,8 +1,12 @@
 {
   "name": "@salomaosnff/express-router-map",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Map Express routes",
   "author": "Salomão Neto <salomaosnff@yahoo.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salomaosnff/express-router-map.git"
+  },
   "keywords": [
     "express",
     "maps",
