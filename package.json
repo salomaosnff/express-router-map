@@ -1,6 +1,6 @@
 {
   "name": "@salomaosnff/express-router-map",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Map Express routes",
   "author": "Salomão Neto <salomaosnff@yahoo.com>",
   "repository": {
